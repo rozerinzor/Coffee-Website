@@ -1,6 +1,6 @@
 # ☕ Coffee Website
 
-Modern ve şık tasarıma sahip, **HTML & CSS** kullanılarak geliştirilmiş tamamen **responsive (duyarlı)** bir kahve web sitesi projesidir. Farklı ekran boyutlarına uyum sağlayarak kullanıcıya akıcı bir deneyim sunar.
+Modern ve şık tasarıma sahip, **HTML & CSS** kullanılarak geliştirilmiş tamamen **responsive (duyarlı)** bir kahve web sitesi projesidir. Farklı ekran boyutlarına uyum sağlayarak kullanıcıya akıcı bir deneyim sunar. 
 
 ---
 
